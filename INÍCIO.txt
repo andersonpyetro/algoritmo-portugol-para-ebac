@@ -1,0 +1,21 @@
+INÍCIO
+	1. Ao acordar, pego o celular;
+	2. Confiro as mensagens do WhatsApp e redes sociais;
+	3. Se houver mensagens;
+		1. Abrir aplicativo de mensagens;
+		2. Responder;
+	4. Se não houver mensagens;
+		1. Levatar da cama;
+	5. Após levantar da cama, conferir se tem café feito;
+	6. Se o café estiver feito;
+		1. Colocar o café na xícara;
+		2. Beber o café;
+	7. Se o café não estiver feito;
+		1. Pegar a cafeteira;
+		2. Colocar água;	
+		3. Adicionar a quantidade necessária de café em pó;
+		4. Esperar o café ferver;
+		5. Colocar na garrafa;
+		6. Colocar na xícara;
+		7. Beber o café;
+FIM
